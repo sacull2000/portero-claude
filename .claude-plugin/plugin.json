@@ -1,0 +1,9 @@
+{
+  "name": "portero",
+  "version": "0.1.0",
+  "description": "Elige el modelo más barato que alcance para cada pedido y muestra cuál usa.",
+  "license": "MIT",
+  "author": {
+    "name": "Negro"
+  }
+}
