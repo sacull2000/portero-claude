@@ -1,0 +1,14 @@
+{
+  "name": "negro-mods",
+  "owner": {
+    "name": "Negro"
+  },
+  "plugins": [
+    {
+      "name": "portero",
+      "source": "./",
+      "description": "Elige el modelo más barato que alcance para cada pedido y muestra cuál usa.",
+      "version": "0.1.0"
+    }
+  ]
+}
